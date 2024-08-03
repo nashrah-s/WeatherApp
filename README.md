@@ -1,6 +1,6 @@
 # Weather App
 
-This is a simple weather application that displays the current weather for a specified city. The application uses the OpenWeatherMap API to fetch weather data. It was created using HTML CSS and JavaScript. 
+This is a simple weather application that displays the current weather for a specified city. The application uses the OpenWeatherMap API to fetch weather data. It was created using HTML, CSS and JavaScript. 
 
 ## Prerequisites
 
